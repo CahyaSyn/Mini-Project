@@ -44,7 +44,9 @@ Project ini memiliki fitur **migration**, **seeder**, dan **export Excel**, sert
 8. Jalankan program
    ```bash
    composer run dev
-atau menggunakan 2 tab terminal bersamaan
+9. atau menggunakan 2 tab terminal bersamaan
    ```bash
    npm run dev
    php artisan serve
+
+Selamat mencoba ✅
