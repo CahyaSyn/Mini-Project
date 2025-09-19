@@ -43,6 +43,8 @@ Project ini memiliki fitur **migration**, **seeder**, dan **export Excel**, sert
    php artisan migrate:fresh --seed
 8. Jalankan program
    ```bash
+   composer run dev
+atau menggunakan 2 tab terminal bersamaan
+   ```bash
+   npm run dev
    php artisan serve
-
-Selamat mencoba ✅
